@@ -10,7 +10,7 @@ Desenvolvedor de software, formado em Análise e Desenvolvimento de Sistemas e p
 
 Antes de migrar para desenvolvimento, passei anos trabalhando com redes e infraestrutura em bancos e órgãos públicos — bagagem que continuo usando quando o problema é de ambiente, e não de código.
 
-Hoje atuo na **Diletta Solutions**, em engenharia de software centrada em IA, com forte presença em banking, fintech e sistemas de missão crítica. Em paralelo, desenvolvo produtos próprios através da **Rook One**.
+Hoje atuo na **Diletta Solutions**, em engenharia de software centrada em IA, com forte presença em banking, fintech e sistemas de missão crítica. Em paralelo, desenvolvo produtos próprios através da **Rook One**, uma ideia que está saindo do papel.
 
 Uso IA como ferramenta de engenharia no dia a dia, principalmente **Claude Code**. Boa parte do trabalho é justamente aprender a integrá-la bem ao processo — revisão, contexto e automação — sem terceirizar a decisão técnica.
 
@@ -44,13 +44,13 @@ Uso IA como ferramenta de engenharia no dia a dia, principalmente **Claude Code*
 
 <img src="https://streak-stats.demolab.com?user=alencar-dev77&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=8B949E" alt="Contribuições, streak atual e maior sequência no GitHub" />
 
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="Calendário de contribuições do GitHub em 3D" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alencar-dev77/alencar-dev77/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alencar-dev77/alencar-dev77/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/alencar-dev77/alencar-dev77/output/github-snake.svg" alt="Snake percorrendo o gráfico de contribuições do GitHub" />
 </picture>
+
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="Calendário de contribuições do GitHub em 3D" />
 
 </div>
 
