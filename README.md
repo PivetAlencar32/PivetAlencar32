@@ -42,14 +42,14 @@ Uso IA como ferramenta de engenharia no dia a dia, principalmente **Claude Code*
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=PivetAlencar32&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=8B949E" alt="Contribuições, streak atual e maior sequência no GitHub" />
+<img src="https://streak-stats.demolab.com?user=alencar-dev77&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=8B949E" alt="Contribuições, streak atual e maior sequência no GitHub" />
 
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="Calendário de contribuições do GitHub em 3D" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PivetAlencar32/PivetAlencar32/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PivetAlencar32/PivetAlencar32/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/PivetAlencar32/PivetAlencar32/output/github-snake.svg" alt="Snake percorrendo o gráfico de contribuições do GitHub" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alencar-dev77/alencar-dev77/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alencar-dev77/alencar-dev77/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/alencar-dev77/alencar-dev77/output/github-snake.svg" alt="Snake percorrendo o gráfico de contribuições do GitHub" />
 </picture>
 
 </div>
