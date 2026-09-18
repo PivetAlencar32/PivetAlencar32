@@ -50,8 +50,6 @@ Uso IA como ferramenta de engenharia no dia a dia, principalmente **Claude Code*
   <img src="https://raw.githubusercontent.com/alencar-dev77/alencar-dev77/output/github-snake.svg" alt="Snake percorrendo o gráfico de contribuições do GitHub" />
 </picture>
 
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="Calendário de contribuições do GitHub em 3D" />
-
 </div>
 
 ---
