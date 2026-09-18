@@ -17,7 +17,7 @@ jobs:
       - name: Generate snake game from github contributions
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: PivetAlencar32
+          github_user_name: alencar-dev77
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#58A6FF&color_dots=#0d1117,#0e4429,#006d32,#26a641,#39d353
