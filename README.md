@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=48&lines=Desenvolvedor+de+Software;Flutter+%26+Dart+%C2%B7+Mobile;Produtos+pr%C3%B3prios+na+Rook+One" alt="Desenvolvedor de Software — Flutter e Dart — Mobile" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=48&lines=Desenvolvedor+de+Software;Flutter+%26+Dart+%C2%B7+Mobile;Construindo+produtos+pr%C3%B3prios" alt="Desenvolvedor de Software — Flutter e Dart — Mobile — Construindo produtos próprios" />
 
 # Lucas Alencar
 
